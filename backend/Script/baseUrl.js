@@ -1,0 +1,1 @@
+export const baseUrl = 'https://holly-quaint-protest.glitch.me';

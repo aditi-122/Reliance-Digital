@@ -1,0 +1,207 @@
+home{
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.home h1{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.home .product{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.home .product img{
+    width: 100%;
+    border-radius: 10px;
+}
+.home .product h2{
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+}
+.home .product .price{
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+.home .product .btn{
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.home .product .btn:hover{
+    background-color: #333;
+    color: #fff;
+}
+cart{
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.cart h1{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.cart .product{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+camera{
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.camera h1{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.camera .product{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+camera .product img{
+    width: 100%;
+    border-radius: 10px;
+}
+camera .product h2{
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+}
+camera .product .price{
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+camera .product .btn{
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+camera .product .btn:hover{
+    background-color: #333;
+    color: #fff;
+}
+laptop{
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+laptop h1{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+laptop .product{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+laptop .product img{
+    width: 100%;
+    border-radius: 10px;
+}
+laptop .product h2{
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+}
+laptop .product .price{
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+laptop .product .btn{
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+laptop .product .btn:hover{
+    background-color: #333;
+    color: #fff;
+}
+audio{
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+audio h1{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+audio .product{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+audio .product img{
+    width: 100%;
+    border-radius: 10px;
+}
+audio .product h2{
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+}
+audio .product .price{
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+audio .product .btn{
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+audio .product .btn:hover{
+    background-color: #333;
+    color: #fff;
+}
