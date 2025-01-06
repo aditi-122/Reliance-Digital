@@ -1,1 +1,1 @@
-export const baseUrl = 'https://holly-quaint-protest.glitch.me';
+export const baseUrl = 'http://localhost:3000/Products';

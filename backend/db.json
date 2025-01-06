@@ -1,0 +1,191 @@
+{
+    "Products": {
+      "audio": [
+        {
+          "Name": "JBL Flip 5",
+          "MRP": 9999.0,
+          "offerPrice": 8999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "JBL Flip 5 is a portable Bluetooth speaker. It has a 4800 mAh battery. It has a 20W RMS output. It has IPX7 waterproof design. It has PartyBoost feature to connect multiple JBL speakers. It has a USB Type-C charging port.",
+          "Rating": 4.8,
+          "Reviews": 7000
+        },
+        {
+          "Name": "JBL Charge 4",
+          "MRP": 12999.0,
+          "offerPrice": 11999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "JBL Charge 4 is a portable Bluetooth speaker. It has a 7500 mAh battery. It has a 30W RMS output. It has IPX7 waterproof design. It has JBL Connect+ feature to connect multiple JBL speakers. It has a USB Type-C charging port.",
+          "Rating": 4.9,
+          " Reviews": 8000
+        },
+        {
+          " Name": "JBL Xtreme 2",
+          "MRP": 21999.0,
+          " offerPrice": 19999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "JBL Xtreme 2 is a portable Bluetooth speaker. It has a 10,000 mAh battery. It has a 40W RMS output. It has IPX7 waterproof design. It has JBL Connect+ feature to connect multiple JBL speakers. It has a USB Type-C charging port.",
+          " Rating": 4.9,
+          " Reviews": 9000
+        },
+        {
+          "Name": "JBL Boombox",
+          " MRP": 24999.0,
+          " offerPrice": 22999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "JBL Boombox is a portable Bluetooth speaker. It has a 20,000 mAh battery. It has a 60W RMS output. It has IPX7 waterproof design. It has JBL Connect+ feature to connect multiple JBL speakers. It has a USB Type-C charging port.",
+          " Rating": 5.0,
+          "Reviews": 10000
+        },
+        {
+          "Name": "Sony SRS-XB12",
+          " MRP": 4999.0,
+          "offerPrice": 3999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          " Description": "Sony SRS-XB12 is a portable Bluetooth speaker. It has a 1400 mAh battery. It has a 5W RMS output. It has IP67 waterproof design. It has a detachable strap. It has a USB Type-C charging port.",
+          "Rating": 4.7,
+          "Reviews": 5000
+        },
+        {
+          "Name": "Sony SRS-XB32",
+          "MRP": 13999.0,
+          "offerPrice": 11999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Sony SRS-XB32 is a portable Bluetooth speaker. It has a 2400 mAh battery. It has a 20W RMS output. It has IP67 waterproof design. It has a detachable strap. It has a USB Type-C charging port.",
+          "Rating": 4.8,
+          "Reviews": 6000
+        },
+        {
+          "Name": "Sony SRS-XB41",
+          "MRP": 16999.0,
+          "offerPrice": 14999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Sony SRS-XB41 is a portable Bluetooth speaker. It has a 3000 mAh battery. It has a 25W RMS output. It has IP67 waterproof design. It has a detachable strap. It has a USB Type-C charging port.",
+          "Rating": 4.9,
+          "Reviews": 7000
+        },
+        {
+          "Name": "Sony SRS-XB501G",
+          "MRP": 29999.0,
+          "offerPrice": 27999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Sony SRS-XB501G is a portable Bluetooth speaker. It has a 5000 mAh battery. It has a 30W RMS output. It has IP67 waterproof design. It has a detachable strap. It has a USB Type-C charging port.",
+          "Rating": 5.0,
+          "Reviews": 8000
+        },
+        {
+          "Name": "Bose SoundLink Micro",
+          "MRP": 8999.0,
+          "offerPrice": 7999.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Bose SoundLink Micro is a portable Bluetooth speaker. It has a 650 mAh battery. It has a 5W RMS output. It has IPX7 waterproof design. It has a tear-resistant strap. It has a USB Type-C charging port.",
+          "Rating": 4.7,
+          "Reviews": 5000
+        }
+      ],
+      "computers": [
+        {
+          "Name": "Apple MacBook Air",
+          "MRP": 92900.0,
+          "offerPrice": 84900.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Apple MacBook Air comes with 13.3-inch Retina display with True Tone. It has a 1.1 GHz dual-core 10th-generation Intel Core i3 processor. It has 256 GB SSD storage. It has 8 GB RAM. It has Intel Iris Plus Graphics. It has a Magic Keyboard.",
+          "Rating": 4.9,
+          "Reviews": 10000
+        },
+        {
+          "Name": "Apple MacBook Pro",
+          "MRP": 122900.0,
+          "offerPrice": 114900.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Apple MacBook Pro comes with 13.3-inch Retina display with True Tone. It has a 1.4 GHz quad-core 8th-generation Intel Core i5 processor. It has 256 GB SSD storage. It has 8 GB RAM. It has Intel Iris Plus Graphics. It has a Magic Keyboard.",
+          "Rating": 4.8,
+          "Reviews": 8000
+        },
+        {
+          "Name": "HP Pavilion x360",
+          "MRP": 69900.0,
+          "offerPrice": 64900.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "HP Pavilion x360 comes with 14-inch FHD display. It has a 10th Gen Intel Core i3 processor. It has 256 GB SSD storage. It has 8 GB RAM. It has Intel UHD Graphics. It has a backlit keyboard.",
+          "Rating": 4.7,
+          "Reviews": 6000
+        },
+        {
+          "Name": "HP Spectre x360",
+          "MRP": 129900.0,
+          "offerPrice": 124900.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "HP Spectrex360 comes with 13.3-inch FHD display. It has a 10th Gen Intel Core i5 processor. It has 512 GB SSD storage. It has 8 GB RAM. It has Intel Iris Plus Graphics. It has a backlit keyboard.",
+          "Rating": 4.9,
+          "Reviews": 9000
+        }
+      ],
+      "cameras": [
+        {
+          "Name": "Canon EOS 200D II DSLR Camera",
+          "MRP": 52995.0,
+          "offerPrice": 47995.0,
+          "Image": "https://www.reliancedigital.in/medias/Canon-EOS-200D-II-DSLR-Camera-493839249-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjY2MjR8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hkNC8xMDA1MDczMTIxMjg0MC5qcGd8MjQ3ZjI0MzIwNjU5ZjI5Zjg4Y2U0YjMwZjI1YjEwZmIwZjUzZjJlMzI5MjYwZjQwYjM5MmI5MzI4ZjU5ZQ",
+          "Description": "Canon EOS 200D II DSLR Camera comes with 24.1 MP APS-C CMOS sensor and a DIGIC 8 image processor. It has a 3.0-inch vari-angle touchscreen LCD that is perfect for vlogging and selfies. It has a Dual Pixel CMOS AF with Eye Detection AF. It has a built-in Wi-Fi and Bluetooth for easy sharing of images and videos. It has a 4K video recording capability.",
+          "Rating": 4.7,
+          "Reviews": 3000
+        },
+        {
+          "Name": "Canon EOS 1500D DSLR Camera",
+          "MRP": 34995.0,
+          "offerPrice": 29995.0,
+          "Image": "https://www.reliancedigital.in/medias/Canon-EOS-1500D-DSLR-Camera-493839248-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjY2MjR8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hkNC8xMDA1MDczMTIxMjg0MC5qcGd8MjQ3ZjI0MzIwNjU5ZjI5Zjg4Y2U0YjMwZjI1YjEwZmIwZjUzZjJlMzI5MjYwZjQwYjM5MmI5MzI4ZjU5ZQ",
+          "Description": "Canon EOS 1500D DSLR Camera comes with 24.1 MP APS-C CMOS sensor and a DIGIC 4+ image processor. It has a 3.0-inch LCD screen. It has a built-in Wi-Fi and NFC for easy sharing of images and videos. It has a 9-point AF with 1 centre cross-type AF point. It has a Full HD video recording capability.",
+          "Rating": "4.5",
+          "Reviews": 2000
+        },
+        {
+          "Name": "Canon EOS 3000D DSLR Camera",
+          "MRP": 29995.0,
+          "offerPrice": 24995.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Canon EOS 3000D DSLR Camera comes with 18 MP APS-C CMOS sensor and a DIGIC 4+ image processor. It has a 2.7-inch LCD screen. It has a built-in Wi-Fi and NFC for easy sharing of images and videos. It has a 9-point AF with 1 centre cross-type AF point. It has a Full HD video recording capability.",
+          "Rating": 4.3,
+          "Reviews": 1000
+        },
+        {
+          "Name": "Canon EOS 4000D DSLR Camera",
+          "MRP": 24995.0,
+          "offerPrice": 19995.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Canon EOS 4000D DSLR Camera comes with 18 MP APS-C CMOS sensor and a DIGIC 4+ image processor. It has a 2.7-inch LCD screen. It has a built-in Wi-Fi and NFC for easy sharing of images and videos. It has a 9-point AF with 1 centre cross-type AF point. It has a Full HD video recording capability.",
+          "Rating": 4.1,
+          "Reviews": 500
+        },
+        {
+          "Name": "Canon EOS 1300D DSLR Camera",
+          "MRP": 27995.0,
+          "offerPrice": 22995.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Canon EOS 1300D DSLR Camera comes with 18 MP APS-C CMOS sensor and a DIGIC 4+ image processor. It has a 3.0-inch LCD screen. It has a built-in Wi-Fi and NFC for easy sharing of images and videos. It has a 9-point AF with 1 centre cross-type AF point. It has a Full HD video recording capability.",
+          "Rating": 4.2,
+          "Reviews": 700
+        },
+        {
+          "Name": "Canon EOS 800D DSLR Camera",
+          "MRP": 57995.0,
+          "offerPrice": 52995.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Canon EOS 800D DSLR Camera comes with 24.2 MP APS-C CMOS sensor and a DIGIC 7 image processor. It has a 3.0-inch vari-angle touchscreen LCD. It has a Dual Pixel CMOS AF with Eye Detection AF. It has a built-in Wi-Fi, NFC and Bluetooth for easy sharing of images and videos. It has a 6 fps continuous shooting speed.",
+          "Rating": 4.8,
+          "Reviews": 4000
+        },
+        {
+          "Name": "Canon EOS 77D DSLR Camera",
+          "MRP": 79995.0,
+          "offerPrice": 74995.0,
+          "Image": "https://www.reliancedigital.in/medias",
+          "Description": "Canon EOS 77D DSLR Camera comes with 24.2 MP APS-C CMOS sensor and a DIGIC 7 image processor. It has a 3.0-inch vari-angle touchscreen LCD. It has a Dual Pixel CMOS AF with Eye Detection AF. It has a built-in Wi-Fi, NFC and Bluetooth for easy sharing of images and videos. It has a 6 fps continuous shooting speed.",
+          "Rating": 4.9,
+          "Reviews": 5000
+        }
+      ]
+    }
+  }
+  

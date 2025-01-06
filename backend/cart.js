@@ -1,10 +1,4 @@
-let arr = [];
-let cart =`nav id ='cont">`;
-cart += `<div id ='nav-links">`;
-cart += `<div class='product'>Product Name</div>`;
-cart += `<div class ='price'>Price</div>`;
-cart += `<div class ='quantity'>Quantity</div>`;
-cart +=`div class ='total'>Total</div>`;
-cart +=`</div>`;
-cart +=`</nav>`;
-document.getElementById('cart').innerHTML = cart;
+document.addEventListener('DOMContentLoaded',()=>{
+    const productList = document.getElementById('product-list');
+    const cartItems = document.getElementById('cart-items')
+})
